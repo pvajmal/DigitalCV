@@ -1,9 +1,16 @@
+from streamlit_option_menu import option_menu
 from pathlib import Path
 
 import streamlit as st
 from PIL import Image
 
-
+with st.sidebar:
+    selected = option_menu(
+        menu_title="Main Menu",
+        option = ["About Me","Skills","Work History", "Education","Achievements","Learnings"]
+    )
+if selected == "About Me":
+    st.title(f"You have selected {selected}")
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -30,7 +37,7 @@ PROJECTS = {
     "📖 Machine Learning in Python": "https://perfectelearning.com/certificate/907226e396",
     "📖  Learn JMeter ‑ Perfomance testing & API": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-99eb1505-d675-4afc-a536-beb1f1a9c0fe.pdf",
     "📖 Wings Core Tech T3 Machine First And Intelligent Business certification": " ",
-    "📖 The Art of Articulation": " ",
+    "📖 The Art of Articulation": "https://drive.google.com/file/d/1yj5SQAmY9xHjaB4AriD20dZCdDtOZKjI/view?usp=sharing",
     "📖 Commence : Business English Certification": " ",
     "📖 INS ‑ Certificate in Blockchain Invogue": " ",
 }
