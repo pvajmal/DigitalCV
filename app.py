@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Muhammed Ajmal P V"
 PAGE_ICON = ":wave:"
-NAME = "Muhammed Ajmal PV"
+NAME = "Muhammed Ajmal P V"
 DESCRIPTION = """
 Machine Learning and Data Science Enthusiast
 """
