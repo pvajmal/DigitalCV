@@ -1,4 +1,4 @@
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 from pathlib import Path
 
 import streamlit as st
