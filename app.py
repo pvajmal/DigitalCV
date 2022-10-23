@@ -3,14 +3,14 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
-
+'''
 with st.sidebar:
     selected = option_menu(
         menu_title="Main Menu",
         option = ["About Me","Skills","Work History", "Education","Achievements","Learnings"]
     )
 if selected == "About Me":
-    st.title(f"You have selected {selected}")
+    st.title(f"You have selected {selected}")'''
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
