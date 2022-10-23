@@ -31,8 +31,8 @@ PROJECTS = {
     "📖  Learn JMeter ‑ Perfomance testing & API": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-99eb1505-d675-4afc-a536-beb1f1a9c0fe.pdf",
     "📖 Wings Core Tech T3 Machine First And Intelligent Business certification": "https://drive.google.com/file/d/1ieYXFNUQX3H0w6EA8gPfUfea-d959lte/view?usp=sharing",
     "📖 The Art of Articulation": "https://drive.google.com/file/d/1yj5SQAmY9xHjaB4AriD20dZCdDtOZKjI/view?usp=sharing",
-    "📖 Commence : Business English Certification": "https://drive.google.com/file/d/1txfuzSYk6WNC8liMaLkEpm7y3zL2hUUr/view?usp=sharing"
-    "📖 INS ‑ Certificate in Blockchain Invogue": "https://drive.google.com/file/d/1Sgg1nTzOInsxOfbcZUz_OWQS5XmBXThJ/view?usp=sharing",
+    "📖 Commence : Business English Certification": "https://drive.google.com/file/d/1txfuzSYk6WNC8liMaLkEpm7y3zL2hUUr/view?usp=sharing",
+    "📖 INS ‑ Certificate in Blockchain Invogue" : "https://drive.google.com/file/d/1Sgg1nTzOInsxOfbcZUz_OWQS5XmBXThJ/view?usp=sharing",
 }
 
 
