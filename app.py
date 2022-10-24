@@ -93,7 +93,7 @@ st.write(
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
 - 📊 Data Visulization: Matplotlib, MS Excel
 - 📚 Modeling: Logistic regression, linear regression, decition trees
--  🗣 Natural Language Processing - NLTK
+-  🗣 Natural Language Processing: NLTK
 - 🐎 Web application performance and API Testing: Apache JMeter, Postman
 - 👩‍💻 Working knowledge in Microsoft word, Microsoft Excel, Microsoft PowerPoint, SAP ERP, HP ALM, Azure Board, and Teradata SQL.
 """
