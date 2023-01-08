@@ -77,7 +77,7 @@ st.write('\n')
 st.subheader("About Me")
 st.write(
     """
-- ✔️ More than 1.5 years of Experience in Retail Domain as Software Quality Engineer.
+- ✔️ 2 years of Experience in Retail Domain as Software Quality Engineer.
 - ✔️ Strong hands on experience and knowledge in Python and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
