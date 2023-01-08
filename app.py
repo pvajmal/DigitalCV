@@ -77,8 +77,8 @@ st.write('\n')
 st.subheader("About Me")
 st.write(
     """
-- ✔️ 2 years of Experience in Retail Domain as Software Quality Engineer.
-- ✔️ Strong hands on experience and knowledge in Python and Excel
+- ✔️ 2 years of Experience in Retail Domain as Software Engineer.
+- ✔️ Strong hands on experience and knowledge in Python, SQL and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
@@ -90,7 +90,7 @@ st.write('\n')
 st.subheader("Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
+- 👩‍💻 Programming: Python (Pandas, Scikit-learn), SQL
 - 📊 Data Visulization: Matplotlib, MS Excel
 - 📚 Modeling: Logistic regression, linear regression, decition trees
 -  🗣 Natural Language Processing: NLTK
@@ -110,8 +110,9 @@ st.write("🚧", "**Assistant Systems Engineer | Tata Consultancy Services**")
 st.write("03/2021 - Present")
 st.write(
     """
-- ► QA Engineer at US based retail project. Reviewing quality specifications and technical design documents to provide timely and meaningful feedback. Creating detailed, comprehensive and well‑structured test plans and test cases. Estimating, prioritizing, planning and coordinating quality testing activities.
-- ► Handled Performance testing, ETL testing using Python, Manual testing projects and delivered quality products to customers.
+- ► As an IT Engineer at a US‑based retail project, contributed to the review of quality specifications and technical design documents, providing timely and meaningful feedback. Developed detailed, comprehensive, and well‑structured test plans and test cases, and participated in the estimation, prioritization, planning, and coordination of quality testing activities.
+- ►  Developed Python scripts for ETL testing, data analysis, and automation. Created scripts based on various business requirements, presented the plan to stakeholders, and shared the report.
+
 """
 )
 
